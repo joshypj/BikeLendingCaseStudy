@@ -56,12 +56,12 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
 
 ## Technologies Used
-- numpy
-- pandas 
-- matplotlib.pyplot
-- missingno
-- seaborn
-- datetime 
+- numpy - 1.24.1
+- pandas - 1.3.4
+- matplotlib.pyplot - 3.5.2
+- seaborn - 0.12.2
+- statmodels - 0.13.5
+- sklearn - 0.0.post1
 
 
 ## Acknowledgements
