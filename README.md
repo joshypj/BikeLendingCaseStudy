@@ -32,10 +32,10 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Summary of the analysis and key take-aways
-  Step 1: Loading and Understanding the Data
-  Step 2: Data Analysis and Data Cleaning
-  Step 3: Data Modelling
-  Step 4: Model Evaluation
+  - Step 1: Loading and Understanding the Data
+  - Step 2: Data Analysis and Data Cleaning
+  - Step 3: Data Modelling
+  - Step 4: Model Evaluation
 ## Conclusions
 
  - Key attributes which which affecting the bike bookings are:
