@@ -29,9 +29,6 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
    You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
    Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
- * #### Scope of the Case study : 
-   Scope is to identify patterns that indicates whether an applicant is likely to default or not . Based on that Lending Club/Investor can take timely decision.
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Summary of the analysis and key take-aways
